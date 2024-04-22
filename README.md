@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.bensmarketus.com%2Fchill-coding-programming-lo-fi-animation-%5Broyalty-free-stock-bb-18061620&psig=AOvVaw32_DR-0N_u5eF8wwkQeYwI&ust=1713908336372000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjUrq3k1oUDFQAAAAAdAAAAABAJ)]
+[![MasterHead](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.bensmarketus.com%2Fchill-coding-programming-lo-fi-animation-%5Broyalty-free-stock-bb-18061620&psig=AOvVaw32_DR-0N_u5eF8wwkQeYwI&ust=1713908336372000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjUrq3k1oUDFQAAAAAdAAAAABAJ)](https://eg.linkedin.com/in/abanoub-raafat-79984916b)
 <h1 align="center">Hi 👋, I'm Abanoub Raafat</h1>
 <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://www.innotechsolution.com/upload/anime/googleweb.gif">
+<img align="right" alt="Coding" width="350" src="https://www.innotechsolution.com/upload/anime/googleweb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abanoubraafat&label=Profile%20views&color=0e75b6&style=flat" alt="abanoubraafat" /> </p>
 
 - 📫 How to reach me **abanoubraafat10@gmail.com**
